@@ -1,5 +1,5 @@
 # 📊 Retail Sales Insights (SQL + Power BI)
-<img width="1408" height="673" alt="Superstore_Sales_Data_Analysis" src="https://github.com/user-attachments/assets/bdf37fc4-31a8-4c96-ad2e-c976edee3677" />
+
 
 This project delivers an end-to-end **retail sales analytics solution** using **SQL** for data processing and **Power BI** for visualization.  
 The goal is to uncover **business insights** from raw transactional data — including sales trends, profitability, customer behavior, and product performance — to support better decision-making.  
@@ -82,6 +82,5 @@ The dataset contains ~10K rows of sales transactions with fields such as:
 This project shows how SQL + Power BI can transform raw retail data into **actionable insights**.  
 Findings highlight areas for **improving profitability**, **monitoring loss-making products**, and **optimizing sales strategies**.  
 
----
+<img width="1408" height="673" alt="Superstore_Sales_Data_Analysis" src="https://github.com/user-attachments/assets/bdf37fc4-31a8-4c96-ad2e-c976edee3677" />
 
-⭐ *If you find this project useful, feel free to star the repo!*  
